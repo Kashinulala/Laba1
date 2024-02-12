@@ -16,4 +16,4 @@ int binarySearch(int arr[], int l, int r, int x)
     return -1;
 }
 
-//ну типо бинарный поиск... ааа
+//ну типо бинарный поиск... ааа 111
